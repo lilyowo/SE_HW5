@@ -129,6 +129,4 @@ printf("%d",&S);
  
     BellmanFord(S, graph);
 //passing created graph and source vertex to BellmanFord Algorithm function
- 
-    
 }
